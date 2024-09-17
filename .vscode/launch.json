@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Tetris",
+            "request": "launch",
+            "mainClass": "Tetris",
+            "projectName": "Tetris_java" // Match this with your project folder name
+        }
+    ]
+}
